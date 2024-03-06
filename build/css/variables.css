@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 06 Mar 2024 11:19:17 GMT
+ * Generated on Wed, 06 Mar 2024 11:58:25 GMT
  */
 
 :root {
@@ -9,6 +9,7 @@
   --color-black: #000000;
   --color-brand-main: #8257e5;
   --color-brand-light: #996dff;
+  --color-brand-dark: #8257e5;
   --color-priority-high: #ff6060;
   --color-priority-medium: #ffa500;
   --color-priority-low: #5ca9d4;
