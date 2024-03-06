@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 06 Mar 2024 11:19:17 GMT
+ * Generated on Wed, 06 Mar 2024 11:58:25 GMT
  */
 
 module.exports = {
@@ -9,6 +9,7 @@ module.exports = {
   "ColorBlack": "#000000",
   "ColorBrandMain": "#8257e5",
   "ColorBrandLight": "#996dff",
+  "ColorBrandDark": "#8257e5",
   "ColorPriorityHigh": "#ff6060",
   "ColorPriorityMedium": "#ffa500",
   "ColorPriorityLow": "#5ca9d4",
